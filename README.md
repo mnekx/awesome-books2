@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-[gitpages](https://mnekx.github.io/awesome-books/)
+[gitpages](https://mnekx.github.io/awesome-books2/)
 
 ## Authors
 
@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/souad988)
   https://github.com/souad988
 
-## Screenshot ![see](./images/screenshot.png?raw=true "Title")
+## Screenshot ![see](./screenshot.png?raw=true "Title")
 
 Screenshot:
 
@@ -45,7 +45,7 @@ Screenshot:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the (https://github.com/mnekx/awesome-books/issues/).
+Feel free to check the (https://github.com/mnekx/awesome-books2/issues/).
 
 ## Show your support
 
