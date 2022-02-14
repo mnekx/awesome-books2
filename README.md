@@ -8,6 +8,11 @@ Javascript App that keeps track of awesome books
 
 ## Getting Started
 
+1. git clone https://github.com/mnekx/awesome-books2.git
+2. cd awesome-books2
+3. npm install
+4. open index.html in the live server
+
 **Download the files into you repo and you will be good to go.**
 
 To get a local copy up and running follow these simple example steps.
